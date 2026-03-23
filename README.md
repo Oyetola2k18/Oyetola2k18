@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-- 🧑‍🎓 I’m a 17-year-old computer science student with a love for all things tech.
+- 🧑‍🎓 I’m a 18-year-old computer science student with a love for all things tech.
 - 🧩 I don’t like doing “nothing”—I just love trying to solve problems.
 - 🚀 Always exploring new ideas, especially in AI and full-stack development.
 - 💭 Projects are in progress (stay tuned for updates!).
