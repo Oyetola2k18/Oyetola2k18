@@ -41,7 +41,7 @@
 
 ## ⚡ Fun Facts
 
-- I’m 17 and solving problems is my favorite “hobby.”
+- I’m 18 and solving problems is my favorite “hobby.”
 - If it’s a tech challenge, I’m in!
 
 ---
