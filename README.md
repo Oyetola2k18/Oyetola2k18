@@ -1,6 +1,6 @@
 # Hi there, I'm Oyetola Ogunyemi! 👋
 
-🎓 **300-level Computer Science Student**  
+🎓 **400-level Computer Science Student**  
 💡 Passionate about **AI, software, and web development**  
 🐍 Main language: **Python** (intermediate level)  
 🌍 Tech enthusiast, problem solver, and future innovator
